@@ -9,7 +9,7 @@ World.add(world,this.body);
 
 
 }
-fly(){
+blow(){
     this.body.bodyA = null; 
  
  }

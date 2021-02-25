@@ -39,6 +39,6 @@ function mouseDragged(){
 
 }
 function mouseReleased(){
-fly.fly();
+fly.blow();
 
 }
